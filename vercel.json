@@ -1,0 +1,8 @@
+{
+  "build": {
+    "commands": [
+      "yarn install --production",  // Install production dependencies
+      "yarn add bootstrap"           // Install Bootstrap
+    ]
+  }
+}
